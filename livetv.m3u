@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"
 
+#EXTINF:0 tvg-id="ext" group-title="Movies,King of
+https://www.youtube.com/watch?v=XnoJg1kdFOo
 #EXTINF:0 tvg-id="ext" group-title="Entertainment,STAR BHARAT HD (NEW)
 http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony Kal (W)
